@@ -1,0 +1,1 @@
+const flash = "hola flash "
