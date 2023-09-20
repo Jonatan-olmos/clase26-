@@ -1,4 +1,10 @@
 let saludo = "Hola"
 let superHeroe = "Bruno"
-let malo = "Acertijo"
+const nombre = {
+    nombre : BeforeUnloadEvent,
+    apellido : dias,
+    vehiculo : batimovil,
+}
+console.log(nombre);
+
 console.log(saludo + " " + superHeroe);
